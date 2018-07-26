@@ -1,5 +1,6 @@
-# OverRidding-.equals-Object-
+# OverRidding .equals(Object)
 # 重写Object类的  .equals（）；使满足以下需求：  当学生的学号与姓名一致时，认为他们为相同的对象；
+# instanceof      关键字用于判断一个引用类型所引用的对象是否属于一个类的实例！！！
 package org.gaofuzhi.test2;
 public class Students {
 	String name;
